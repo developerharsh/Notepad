@@ -1,4 +1,3 @@
-
 package notepad;
 import java.awt.*;
 import java.awt.event.*;
@@ -10,8 +9,7 @@ public class Notepad extends Frame implements WindowListener{
     
     menubar ab=new menubar();
     static Frame f=new Frame();
-    
-    
+   
     public Notepad()
     {
         f.setVisible(true);
